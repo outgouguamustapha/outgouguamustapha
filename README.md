@@ -20,14 +20,12 @@
 </div>
 
 
-<div id="badges" align="center">
-<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=irismejuto" alt=""/>
   
 
 
  <div id="header" align="left">
 
-## :men_technologist: About me :
+## 👩‍💻 About me :
 
 **Passionate about technology and business** <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
@@ -91,9 +89,9 @@ I’m eager to join a dynamic team where I can continue to learn, grow, and cont
 
 
 
-## 👨‍🎓 Education & Qualifications
+## 🎓 Education & Qualifications
 
-| 📅 Date                | 👨‍🎓 Academic institution             | 🚀 Skills
+| 📅 Date                | 🎓 Academic institution             | 🚀 Skills
 |  :---:  |  :---:   | :---:  | 
 | MAR 2024 - OCT 2024 | ALX & AI Academy                 | Analysis of data (Excel, Power BI, SQL) |
 | NOV 2023 - NOV 2023 | Udemy                            | Python for Data Analysis |
