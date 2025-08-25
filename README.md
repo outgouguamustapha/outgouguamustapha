@@ -96,6 +96,6 @@ I’m eager to join a dynamic team where I can continue to learn, grow, and cont
 | MAR 2024 - OCT 2024 | ALX & AI Academy                 | Analysis of data (Excel, Power BI, SQL) |
 | NOV 2023 - NOV 2023 | Udemy                            | Python for Data Analysis |
 | SEP 2020 - JUL 2022 | National School of Business      | Financial Management |
-| SEP 2019 - JUL 2020 | university of economy        | Banking and finance |
+| SEP 2019 - JUL 2020 | University of economy        | Banking and finance |
 | SEP 2016 - JUL 2018 | Institute of tech and management | Business and Management |
 | SEP 2015 - JUN 2016 | Certificate of Higher Education  | Chemical Physics |
