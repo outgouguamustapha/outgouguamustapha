@@ -25,7 +25,7 @@
 
  <div id="header" align="left">
 
-## 👩‍💻 About me :
+## 👨‍💻 About me :
 
 **Passionate about technology and business** <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
@@ -89,7 +89,7 @@ I’m eager to join a dynamic team where I can continue to learn, grow, and cont
 
 
 
-## 🎓 Education & Qualifications
+## 👨‍🎓 Education & Qualifications
 
 | 📅 Date                | 🎓 Academic institution             | 🚀 Skills
 |  :---:  |  :---:   | :---:  | 
