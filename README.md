@@ -85,6 +85,9 @@ I’m eager to join a dynamic team where I can continue to learn, grow, and cont
 👉 [Stock Data Analysis Dashboard](https://github.com/mustapha-py/Stock-Data-Analysis/blob/main/README.md#visualization)
 
 
+<h3 id="sql">SQL</h3>
+
+👉 [Bank Loan Analysis Dashboard](https://github.com/outgouguamustapha/Bank-Loan-Analysis)
 
 
 
