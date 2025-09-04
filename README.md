@@ -83,6 +83,7 @@ I’m eager to join a dynamic team where I can continue to learn, grow, and cont
 <h3 id="power-bi">Power BI</h3>
 
 👉 [Stock Data Analysis Dashboard](https://github.com/mustapha-py/Stock-Data-Analysis/blob/main/README.md#visualization)
+👉 [Weather Forecast Power BI Dashboard](https://github.com/outgouguamustapha/Weather-Forecast-Power-BI-Dashboard)
 
 
 <h3 id="sql">SQL</h3>
