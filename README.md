@@ -86,6 +86,8 @@ I’m eager to join a dynamic team where I can continue to learn, grow, and cont
 
 👉 [Weather Forecast Power BI Dashboard](https://github.com/outgouguamustapha/Weather-Forecast-Power-BI-Dashboard)
 
+👉 [HR Diversity and Inclusion Analysis](https://github.com/outgouguamustapha/HR-Diversity-Inclusion-Analysis)
+
 
 <h3 id="sql">SQL</h3>
 
