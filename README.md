@@ -79,6 +79,8 @@ I’m eager to join a dynamic team where I can continue to learn, grow, and cont
 
 👉 [Stock Data Analysis](https://github.com/mustapha-py/Stock-Data-Analysis/blob/main/README.md)
 
+👉 [Moroccan Banks Stock Price Performance Analysis](https://github.com/outgouguamustapha/Moroccan-banks-historical-stock-price-performance)
+
 
 <h3 id="power-bi">Power BI</h3>
 
