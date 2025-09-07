@@ -83,6 +83,8 @@ I’m eager to join a dynamic team where I can continue to learn, grow, and cont
 
 👉 [Moroccan Banks Stock Price Performance Analysis](https://github.com/outgouguamustapha/Moroccan-banks-historical-stock-price-performance)
 
+👉 [Portfolio Analysis & Efficient Frontier Optimization](https://github.com/outgouguamustapha/Portfolio-Analysis-and-Efficient-Frontier-Simulation)
+
 
 <h3 id="power-bi">Power BI</h3>
 
