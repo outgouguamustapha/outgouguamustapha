@@ -77,11 +77,11 @@ I’m eager to join a dynamic team where I can continue to learn, grow, and cont
 <h3 id="python">Python</h3>
 <h4 id="python">Data Analysis</h4>
 
-👉 [Capital Asset Pricing Model in Python](https://github.com/outgouguamustapha/Capital-Asset-Pricing-Model-in-Python)
-
-👉 [Stock Data Analysis](https://github.com/mustapha-py/Stock-Data-Analysis/blob/main/README.md)
-
 👉 [Moroccan Banks Stock Price Performance Analysis](https://github.com/outgouguamustapha/Moroccan-banks-historical-stock-price-performance)
+
+👉 [US Stocks Data Analysis](https://github.com/mustapha-py/Stock-Data-Analysis/blob/main/README.md)
+
+👉 [Capital Asset Pricing Model in Python](https://github.com/outgouguamustapha/Capital-Asset-Pricing-Model-in-Python)
 
 👉 [Portfolio Analysis & Efficient Frontier Optimization](https://github.com/outgouguamustapha/Portfolio-Analysis-and-Efficient-Frontier-Simulation)
 
