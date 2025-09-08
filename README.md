@@ -85,6 +85,8 @@ I’m eager to join a dynamic team where I can continue to learn, grow, and cont
 
 👉 [Portfolio Analysis & Efficient Frontier Optimization](https://github.com/outgouguamustapha/Portfolio-Analysis-and-Efficient-Frontier-Simulation)
 
+👉 [Housing Price Regression Analysis](https://github.com/outgouguamustapha/Housing-Price-Regression-Analysis)
+
 
 <h3 id="power-bi">Power BI</h3>
 
