@@ -29,7 +29,9 @@
 
 **Passionate about technology and business** <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-👋 Hi! I’m Mustapha, a data analyst passionate about transforming complex data into actionable insights that drive smarter decisions and improve business efficiency.
+👋 Hi! I’m Mustapha — a data analyst with a Master’s in Financial Management. I specialize in turning complex data into actionable insights that drive smarter decisions and boost business performance.
+
+By combining my financial background with skills in SQL, Python, R, Power BI, and Google Sheets, I bridge the gap between finance and analytics—transforming raw data into meaningful insights that support strategic decision-making.
 
 Curious by nature, I’m always asking “why” to uncover the story behind the numbers. My analytical mindset and attention to detail allow me to approach challenges from multiple perspectives and deliver meaningful solutions.
 
