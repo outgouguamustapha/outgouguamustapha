@@ -76,8 +76,18 @@ I’m eager to join a dynamic team where I can continue to learn, grow, and cont
 
 ## 📊 Projects :
 
+<h3 id="power-bi">Power BI</h3>
+
+👉 [Projects Performance Dashboard - Power BI](https://github.com/outgouguamustapha/Projects-Performance-Dashboard)
+
+👉 [Stock Data Analysis Dashboard](https://github.com/mustapha-py/Stock-Data-Analysis/blob/main/README.md#visualization)
+
+👉 [Weather Forecast Power BI Dashboard](https://github.com/outgouguamustapha/Weather-Forecast-Power-BI-Dashboard)
+
+👉 [HR Diversity and Inclusion Analysis](https://github.com/outgouguamustapha/HR-Diversity-Inclusion-Analysis)
+
+
 <h3 id="python">Python</h3>
-<h4 id="python">Data Analysis</h4>
 
 👉 [Moroccan Banks Stock Price Performance Analysis](https://github.com/outgouguamustapha/Moroccan-banks-historical-stock-price-performance)
 
@@ -88,15 +98,6 @@ I’m eager to join a dynamic team where I can continue to learn, grow, and cont
 👉 [Portfolio Analysis & Efficient Frontier Optimization](https://github.com/outgouguamustapha/Portfolio-Analysis-and-Efficient-Frontier-Simulation)
 
 👉 [Housing Price Regression Analysis](https://github.com/outgouguamustapha/Housing-Price-Regression-Analysis)
-
-
-<h3 id="power-bi">Power BI</h3>
-
-👉 [Stock Data Analysis Dashboard](https://github.com/mustapha-py/Stock-Data-Analysis/blob/main/README.md#visualization)
-
-👉 [Weather Forecast Power BI Dashboard](https://github.com/outgouguamustapha/Weather-Forecast-Power-BI-Dashboard)
-
-👉 [HR Diversity and Inclusion Analysis](https://github.com/outgouguamustapha/HR-Diversity-Inclusion-Analysis)
 
 
 <h3 id="sql">SQL</h3>
