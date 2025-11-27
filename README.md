@@ -27,7 +27,7 @@
 
 ## 👨‍💻 About me :
 
-**Passionate about technology and business** <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+**Data Analytics & BI Enthusiast** <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 👋 Hi! I’m Mustapha — a data analyst with a Master’s in Financial Management.  Passionate about transforming complex data  into actionable insights that drive smarter decisions and boost business performance.
 
