@@ -77,6 +77,7 @@ I’m eager to join a dynamic team where I can continue to learn, grow, and cont
 ## 📊 Projects :
 
 <h3 id="power-bi">Power BI</h3>
+👉 [HR Hiring Analytics Dashboard - Power BI](https://github.com/outgouguamustapha/HR-Hiring-Analytics-Dashboard)
 
 👉 [Sales Overview Dashboard - Power BI](https://github.com/outgouguamustapha/Sales-Analysis-Dashboard)
 
