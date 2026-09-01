@@ -106,6 +106,8 @@ I’m eager to join a dynamic team where I can continue to learn, grow, and cont
 
 <h3 id="sql">SQL</h3>
 
+👉 [Data Warehouse and Analytics Project](https://github.com/outgouguamustapha/sql-data-warehouse-project)
+
 👉 [Bank Loan Analysis Dashboard](https://github.com/outgouguamustapha/Bank-Loan-Analysis)
 
 
