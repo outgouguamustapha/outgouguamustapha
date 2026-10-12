@@ -30,18 +30,20 @@ My core focus is uncovering the commercial and operational **"why"** behind the 
 ## Skills & Tools
  
 <div align="center">
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
- 
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&labelColor=F2C811" alt="Power BI" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&labelColor=CC2927" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&labelColor=217346" alt="Excel" />
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
 </div>
-| Area | Tools & Methodologies |
+
+| Area &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Tools & Methodologies <img width="1000" height="1"> |
 | :--- | :--- |
 | **Business Intelligence** | Power BI, DAX, Power Query, KPI design, data storytelling, interactive dashboards |
 | **SQL & Data Warehousing** | T-SQL, SQL Server, window functions, CTEs, star schema, Medallion architecture, ETL |
@@ -49,9 +51,8 @@ My core focus is uncovering the commercial and operational **"why"** behind the 
 | **Advanced Tooling** | DAX Studio, Tabular Editor, TMDL, A/B analysis, cohort modeling |
 | **Finance & Strategy** | Financial modeling, unit economics, CAPM, efficient frontier, margin optimization |
 | **Business Domains** | Retail, supply chain, sales velocity, HR recruitment funnels |
- 
 
----
+
 
 ## Featured Projects
  
@@ -93,70 +94,27 @@ My core focus is uncovering the commercial and operational **"why"** behind the 
 
 ## More Projects
  
-<details open>
-<summary><b>📊 Power BI</b></summary>
-<br>
-| Project | Link |
-| :--- | :--- |
-| Sales Performance & Profitability Dashboard | [Repo](https://github.com/outgouguamustapha/sales-analysis-dashboard) |
-| HR Hiring Analytics Dashboard | [Repo](https://github.com/outgouguamustapha/HR-Hiring-Analytics-Dashboard) |
-| Projects Performance Dashboard | [Repo](https://github.com/outgouguamustapha/Projects-Performance-Dashboard) |
-| Weather Forecast Dashboard | [Repo](https://github.com/outgouguamustapha/Weather-Forecast-Power-BI-Dashboard) |
-| HR Diversity & Inclusion Analysis | [Repo](https://github.com/outgouguamustapha/HR-Diversity-Inclusion-Analysis) |
-| Bank Loan Analysis Dashboard | [Repo](https://github.com/outgouguamustapha/Bank-Loan-Analysis) |
-| Stock Data Analysis Dashboard | [Repo](https://github.com/mustapha-py/Stock-Data-Analysis/blob/main/README.md#visualization) |
+### 📊 Power BI
  
-</details>
-<details open>
-<summary><b>🗄️ SQL & Database Analytics</b></summary>
-<br>
-| Project | Link |
-| :--- | :--- |
-| Enterprise SQL Data Warehouse | [Repo](https://github.com/outgouguamustapha/sql-data-warehouse-project) |
+- [Sales Performance & Profitability Dashboard](https://github.com/outgouguamustapha/sales-analysis-dashboard)
+- [HR Hiring Analytics Dashboard](https://github.com/outgouguamustapha/HR-Hiring-Analytics-Dashboard)
+- [Projects Performance Dashboard](https://github.com/outgouguamustapha/Projects-Performance-Dashboard)
+- [Weather Forecast Dashboard](https://github.com/outgouguamustapha/Weather-Forecast-Power-BI-Dashboard)
+- [HR Diversity & Inclusion Analysis](https://github.com/outgouguamustapha/HR-Diversity-Inclusion-Analysis)
+- [Bank Loan Analysis Dashboard](https://github.com/outgouguamustapha/Bank-Loan-Analysis)
+- [Stock Data Analysis Dashboard](https://github.com/mustapha-py/Stock-Data-Analysis/blob/main/README.md#visualization)
+### 🗄️ SQL & Database Analytics
  
-</details>
-<details open>
-<summary><b>📈 Finance & Quant (Python)</b></summary>
-<br>
-| Project | Link |
-| :--- | :--- |
-| Capital Asset Pricing Model (CAPM) | [Repo](https://github.com/outgouguamustapha/Capital-Asset-Pricing-Model-in-Python) |
-| Moroccan Banks Stock Price Performance | [Repo](https://github.com/outgouguamustapha/Moroccan-banks-historical-stock-price-performance) |
-| US Stocks Data Analysis | [Repo](https://github.com/mustapha-py/Stock-Data-Analysis/blob/main/README.md) |
-| Housing Price Regression Analysis | [Repo](https://github.com/outgouguamustapha/Housing-Price-Regression-Analysis) |
+- [Enterprise SQL Data Warehouse](https://github.com/outgouguamustapha/sql-data-warehouse-project)
+### 📈 Finance & Quant (Python)
  
-</details>
- 
----
+- [Capital Asset Pricing Model (CAPM)](https://github.com/outgouguamustapha/Capital-Asset-Pricing-Model-in-Python)
+- [Moroccan Banks Stock Price Performance](https://github.com/outgouguamustapha/Moroccan-banks-historical-stock-price-performance)
+- [US Stocks Data Analysis](https://github.com/mustapha-py/Stock-Data-Analysis/blob/main/README.md)
+- [Housing Price Regression Analysis](https://github.com/outgouguamustapha/Housing-Price-Regression-Analysis)
 
 ---
  
-## Skills & Tools
- 
-| Area | Tools & Concepts |
-|---|---|
-| **Data Warehousing & SQL** | T-SQL, Medallion architecture, ETL, window functions, star schema |
-| **Business Intelligence** | Power BI, DAX, Power Query, dashboard design |
-| **Python & R** | pandas, NumPy, regression, data visualization |
-| **Finance** | CAPM, efficient frontier, portfolio and stock analysis |
-| **Spreadsheets & Design** | Excel, Google Sheets, Figma |
-
----
-
-
-
-## Stats & Profiles
- 
-<div align="center">
-  <a href="https://www.kaggle.com/mustaphaoutgougua">
-    <img src="https://kaggle-badge.vercel.app/api?username=outgouguamustapha&theme=dark" alt="Kaggle Profile Card" />
-  </a>
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=outgouguamustapha&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=outgouguamustapha&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="48%" />
-</div>
----
-
 ## Connect & Collaborate
 
 I am open to data analytics, business intelligence consulting, and commercial strategy opportunities.
