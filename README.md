@@ -115,6 +115,41 @@ My core focus is uncovering the commercial and operational **"why"** behind the 
 - [Housing Price Regression Analysis](https://github.com/outgouguamustapha/Housing-Price-Regression-Analysis)
 
 ---
+
+## Education & Academic Background
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="35%" align="left">Degree / Certification</th>
+      <th width="35%" align="left">Institution / Period</th>
+      <th width="30%" align="left">Core Competencies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Data Analytics Program</strong><br />Professional Fellowship</td>
+      <td><strong>ALX Africa & ExploreAI Academy</strong><br />Mar 2024 – Sept 2024</td>
+      <td>Intensive 6-month program: Advanced SQL, Python, Power BI, DAX, and Applied Statistical Analysis.</td>
+    </tr>
+    <tr>
+      <td><strong>Master’s Degree (MSc)</strong><br />Financial Management</td>
+      <td><strong>ENCG Kénitra</strong><br />2020 – 2022</td>
+      <td>Corporate Finance, Valuation, Financial Strategy, Unit Economics</td>
+    </tr>
+    <tr>
+      <td><strong>Bachelor's Degree</strong><br />Banking & Financial Operations</td>
+      <td><strong>Mohammed V University, Rabat</strong><br />2019 – 2020</td>
+      <td>Banking Operations, Financial Analysis, Quantitative Economics</td>
+    </tr>
+    <tr>
+      <td><strong>Specialized Technician Diploma</strong><br />Business Administration</td>
+      <td><strong>ISTA / OFPPT</strong><br />2016 – 2018</td>
+      <td>Accounting, Cost Management, General Administration, Business Operations</td>
+    </tr>
+  </tbody>
+</table>
+---
  
 ## Connect & Collaborate
 
